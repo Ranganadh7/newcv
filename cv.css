@@ -1,0 +1,269 @@
+#title{
+	background-color: #CDF0EA;
+}
+h1{
+	font-family: 'Montserrat-Black';
+	font-size: 3rem;  /* 1 rem=16px=100%*/
+	line-height: 1;
+	margin-top: 30px;
+}
+h2{
+	text-align: center;
+}
+#tagline{
+	font-family: 'Montserrat-Black';
+	font-size: 2rem;  /* 1 rem=16px=100%*/
+	line-height: 1;
+/*	margin-left: 20px; */
+	margin-top: 10px;
+}
+.container-fluid{
+	padding: 3% 12%;
+}
+#mypic{
+	width: 300px;
+	height: 300px;
+	float: center;
+	border-radius: 100%;
+	position: relative;
+	margin-top: 15px;
+	margin-bottom: 10px;
+	margin-left: 50px;
+	left: 15%;
+
+}
+.container-fluid{
+	padding: 5% 10%;
+}
+.skills{
+	background-color: #FAEBE0;
+}
+#r
+{
+	margin-left: 20%;
+	margin-top: 10px;
+	/* or this */
+	margin: 5% 3% 5% 0%;
+}
+body{
+	font-family: "Montserrat-Bold";
+}
+.navbar-brand{
+	font-family: "Ubuntu";
+	font-size: 2rem;
+	font-weight: bold;
+}
+.nav-link{
+	font-weight: bold;
+	font-size: 1.3rem;
+	font-family: "Montserrat-Black";
+	
+}
+body{
+	margin: 0px;
+	text-align: center;
+	font-family: 'Merriweather', serif;  /* Embedded fonts*/
+	color: #40514E
+
+}
+h1{
+	color: #66BFBF;
+	margin: 40px auto 0 auto;
+	font-family: 'Sacramento', cursive;
+	font-size: 560%;  /* 100 %= 16px */ /* em is phonotic representation of M  1em=16px */
+	/* rem means realtive to the root */
+}
+h2{
+	color:#3B14A7;
+font-family: 'Montserrat', sans-serif;
+font-weight:bold;
+font-size: 30px;
+
+}
+h3{
+	color:#1597BB;
+	font-size: 25px;
+	font-family: 'Montserrat', sans-serif;
+	font-weight: bold;
+
+}
+hr{
+	border-top-style: dotted;
+	border-bottom: none;
+	border-right: none;
+	border-left: none;  
+			border-width: 10px;
+			height: 0px;
+			width:8%;
+			border-top-color: skyblue;
+			margin: 80px auto;
+}
+.pro{
+	font-size: 2.5rem;
+}
+.top{
+	background-color: #CAF7E3; 
+	position: relative;
+	padding-top: 100px;
+	
+}
+.middle{
+	margin: 100px 0 0;
+	
+}
+.bottom{
+	background-color: #FAEBE0;
+	padding:40px 0 20px;
+	text-align: center;	
+
+}
+
+.topcloud{
+	position: absolute;
+	right: 300px;
+	top: 350px;
+
+}
+.bottomcloud{
+	position: absolute;
+	left: 300px;
+	bottom:650px;
+}
+#mypic{
+	width: 300px;
+	height: 300px;
+	border-radius: 100%;
+}
+.skill-row{
+	width: 50%;
+	margin:50px auto 100px auto;
+	text-align: left;
+	line-height: 2;
+
+}
+.deveop{
+	width: 25%;
+	float: left;
+	margin-right: 30px;
+}
+.data{
+	width: 25%;
+	float: right;
+	margin-left: 30px;
+}
+.web{
+	width: 25%;
+	float: left;
+	margin-right:  30px;
+
+}
+.projects{
+	background-color: #DEEDF0;
+}
+.project-row{
+	width: 50%;
+	margin:50px auto 100px auto;
+	text-align: left;
+	line-height: 2;
+	align-content: left;
+
+}
+.python{
+
+width: 25%;
+	float: left;
+	margin-right: 30px;
+}
+.ipl{
+	width: 25%;
+	float: right;
+	margin-left: 30px;
+}
+.exam{
+	width: 25%;
+	float: left;
+	margin-right: 30px;
+
+}
+.price{
+
+	width: 25%;
+	float: right;
+	margin-left: 30px;
+}
+.bio{
+	text-align: center;
+	width: 50%;
+	margin: auto;
+}
+p{
+	line-height: 2;
+}
+.contact-me{
+	width: 40%;
+	margin: 40px auto;
+}
+.btn{
+   background: #11CDD4;
+   background-image: -webkit-linear-gradient(top, #11CDD4, #29808B);
+   background-image: -moz-linear-gradient(top, #11CDD4, #29808B);
+   background-image: -ms-linear-gradient(top, #11CDD4, #29808B);
+   background-image: -o-linear-gradient(top, #11CDD4, #29808B);
+   background-image: -webkit-gradient(to bottom, #11CDD4, #29808B);
+   -webkit-border-radius: 41px;
+   -moz-border-radius: 41px;
+   border-radius: 41px;
+   color: #FFFFFF;
+   font-family:Montserrat', sans-serif;
+   font-size: 20px;
+   font-weight: 100;
+   padding: 30px;
+   -webkit-box-shadow: 1px 1px 20px 0 #000000;
+   -moz-box-shadow: 1px 1px 20px 0 #000000;
+   box-shadow: 1px 1px 20px 0 #000000;
+   text-shadow: 1px 1px 20px #000000;
+   border: solid #337FED 1px;
+   text-decoration: none;
+   display: inline-block;
+   cursor: pointer;
+   text-align: center;
+ position: auto 20px;
+
+}
+
+.btn:hover {
+   border: solid #337FED 1px;
+   background: #30E3CB;
+   background-image: -webkit-linear-gradient(top, #30E3CB, #2BC4AD);
+   background-image: -moz-linear-gradient(top, #30E3CB, #2BC4AD);
+   background-image: -ms-linear-gradient(top, #30E3CB, #2BC4AD);
+   background-image: -o-linear-gradient(top, #30E3CB, #2BC4AD);
+   background-image: -webkit-gradient(to bottom, #30E3CB, #2BC4AD);
+   -webkit-border-radius: 20px;
+   -moz-border-radius: 20px;
+   border-radius: 20px;
+   text-decoration: none;
+}
+
+a{
+	font-family: 'Montserrat', sans-serif;
+	color:#000000;
+	margin:10px 20px;  /* Gap between the links */
+	text-decoration: none;
+	font-size: 20px;
+	font-weight: bold;
+
+}
+a:hover{
+
+	color: #EAF6F6;
+}
+.copyright{
+	color: #4C4C6D;
+	padding:20px 0px;
+	font-size: 0.80rem;
+}
+table{
+	margin-bottom:0px;
+}
+
